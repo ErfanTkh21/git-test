@@ -9,3 +9,8 @@ const likePost = () => {
 const dissLikePost = () => {
   return false
 }
+
+const getMe = user => {
+  return user.name
+}
+  
