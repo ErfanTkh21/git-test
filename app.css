@@ -1,0 +1,12 @@
+h1{
+    color: #000;
+    font-size: 12px;
+}
+
+/* New Codes */
+
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

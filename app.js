@@ -9,3 +9,7 @@ const text = () => {
 const myTest = () => {
     return true
 }
+
+const setTicket = () => {
+    return true
+}
