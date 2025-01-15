@@ -1,16 +1,19 @@
-const login = () => true
+const login = () => true;
 
-const nothing = () => false
+const nothing = () => false;
 
 const likePost = () => {
-  return true
-}
+  return true;
+};
 
 const dissLikePost = () => {
-  return false
-}
+  return false;
+};
 
-const getMe = user => {
-  return user.name
-}
-  
+const getMe = (user) => {
+  return user.name;
+};
+
+const setComment = (comment) => {
+  return comment.body;
+};
