@@ -58,4 +58,8 @@ app.listen(3000)
 
 [Git Test](#)
 
+---
+
+## Images
+
 ![Git Test Image](https://octodex.github.com/images/minion.png)
