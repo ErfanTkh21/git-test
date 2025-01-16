@@ -11,8 +11,8 @@ Inline `Code`
 
 ``` json
 {
-    "firstName: "Erfan",
-    lastName: "Tork",
+    "firstName": "Erfan",
+    "lastName": "Tork"
 }
 
 ```
